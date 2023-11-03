@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile</name>
+   <tag></tag>
+   <elementGuidId>3ec42938-653f-4257-afc0-f646a6d5c660</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gista_theme']/div/div/div/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.initial.transition.h-14.w-14.text-lg.font-semibold.flex.items-center.justify-center.overflow-hidden.rounded-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4242dc0d-e7fe-4ec9-a673-e0c709f866f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>initial transition h-14 w-14 text-lg font-semibold flex items-center justify-center overflow-hidden rounded-lg</value>
+      <webElementGuid>8dc53c81-434c-40f3-87f3-25906803d46f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> U </value>
+      <webElementGuid>2d2cf7a6-7873-487f-b18b-05017a433d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gista_theme&quot;)/div[@class=&quot;font-poppins&quot;]/div[@class=&quot;hidden fixed md:flex flex-wrap content-between left-0 gap-4 overflow-auto top-0 w-28 px-6 py-12 h-full items-center p-4 text-gray&quot;]/div[@class=&quot;flex flex-wrap gap-16 justify-center&quot;]/a[2]/div[@class=&quot;initial transition h-14 w-14 text-lg font-semibold flex items-center justify-center overflow-hidden rounded-lg&quot;]</value>
+      <webElementGuid>85dbb546-2f97-41c6-b14f-e1982b9cdda9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gista_theme']/div/div/div/a[2]/div</value>
+      <webElementGuid>571d9e3e-d00e-4956-8074-56a8aa4b551e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[7]</value>
+      <webElementGuid>1eb06c32-b0e9-4f6e-9939-a1a48fc70f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[7]</value>
+      <webElementGuid>3cd2ad9b-9f0e-4bbe-8071-3da6e6efd780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat datang di aplikasi'])[1]/preceding::div[6]</value>
+      <webElementGuid>ad81a4c5-345d-4bdd-a1ae-21f5728ea60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='U']/parent::*</value>
+      <webElementGuid>b53af6d9-0e9e-4521-aeac-f3666a2dbf99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>0969f561-2876-4b2a-9d05-8e3b1f7d4972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' U ' or . = ' U ')]</value>
+      <webElementGuid>ab4ac2a0-314b-4c9d-befd-d9148ff95b3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

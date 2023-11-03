@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GISTA Config</name>
+   <tag></tag>
+   <elementGuidId>38a8d693-a570-4bfa-8e81-e1c4f7d7a92c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollArea']/div/div/div/div/div/div/div[3]/div/div[10]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5eb49a46-dd1e-4922-b5c9-41d6cddafe49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-10</value>
+      <webElementGuid>c96d1240-67d2-49cf-b41f-f3838d01b578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GISTA Config</value>
+      <webElementGuid>8c43ffb4-04e2-4411-9e6f-c1aa26c69076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollArea&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;relative md:p-10 px-6 py-8 h-full mt-10 mb-20 md:my-0&quot;]/div[@class=&quot;h-full&quot;]/div[@class=&quot;h-full&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[@class=&quot;col-span-3 flex flex-col justify-between pr-10 border-r border-primary-lightest&quot;]/div[@class=&quot;mt-8 pb-48&quot;]/div[@class=&quot;grid grid-cols-5 gap-8 mb-8&quot;]/div[@class=&quot;apps rounded-2xl flex items-start justify-center relative cursor-pointer hover:shadow-primary-lg transition&quot;]/div[@class=&quot;px-4 py-10&quot;]</value>
+      <webElementGuid>0baefe42-2e12-4d21-80e5-7e6221a80e8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollArea']/div/div/div/div/div/div/div[3]/div/div[10]/div[2]</value>
+      <webElementGuid>a693f925-9610-44d0-9447-d8143a1457d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfigurasi terkait menu yang ada di GISTA'])[1]/following::div[1]</value>
+      <webElementGuid>6a56970f-492b-49cf-8895-811b4a2236f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GISTA Patrol'])[1]/following::div[4]</value>
+      <webElementGuid>486be85b-1d9f-4420-98d8-21b6196417b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silahkan pilih aplikasi'])[1]/preceding::div[3]</value>
+      <webElementGuid>92c5a41b-ab3a-4b8c-b3ab-ef91cd5eb7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]</value>
+      <webElementGuid>0dc92f11-3ef7-416b-9b86-b6dad913785a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GISTA Config' or . = 'GISTA Config')]</value>
+      <webElementGuid>9965a461-582a-48f8-aa47-4f3d380d39a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GISTA Procurement</name>
+   <tag></tag>
+   <elementGuidId>6b3d94be-5438-4589-b1cf-415ce2f92478</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollArea']/div/div/div/div/div/div/div[3]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c952df9-0ab1-4b41-bb20-470bdd98c7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-10</value>
+      <webElementGuid>eb96541d-6392-4ce2-a3b5-95225bb1d69c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GISTA Procurement</value>
+      <webElementGuid>12b1f5c2-e5b4-41a7-86ee-d6b29a54cbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollArea&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;relative md:p-10 px-6 py-8 h-full mt-10 mb-20 md:my-0&quot;]/div[@class=&quot;h-full&quot;]/div[@class=&quot;h-full&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[@class=&quot;col-span-3 flex flex-col justify-between pr-10 border-r border-primary-lightest&quot;]/div[@class=&quot;mt-8 pb-48&quot;]/div[@class=&quot;grid grid-cols-5 gap-8 mb-8&quot;]/div[@class=&quot;apps rounded-2xl flex items-start justify-center relative cursor-pointer hover:shadow-primary-lg transition&quot;]/div[@class=&quot;px-4 py-10&quot;]</value>
+      <webElementGuid>0866abcc-9eab-41d1-a0d7-fdad1eaf19a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollArea']/div/div/div/div/div/div/div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>329bfd7d-5dc5-4f59-b201-5aae713ff79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penginputan atau perubahan transaksi pengadaan'])[1]/following::div[1]</value>
+      <webElementGuid>608bdea3-0d03-4df0-8d14-b61b2da8a064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GISTA Shop'])[1]/following::div[4]</value>
+      <webElementGuid>3812a369-f360-42b8-8c28-b410ee3725fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penginputan terkait jurnal maupun pembayaran untuk barang dan Jasa'])[1]/preceding::div[2]</value>
+      <webElementGuid>eeec8379-6cf4-4523-96aa-faec4f413ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>d6d35e5c-4d9c-4305-bcb8-8eb1d0a873b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GISTA Procurement' or . = 'GISTA Procurement')]</value>
+      <webElementGuid>fe903ec4-5d23-4d7c-a3da-0b98319a0a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

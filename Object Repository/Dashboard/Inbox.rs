@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Inbox</name>
+   <tag></tag>
+   <elementGuidId>b1c62f2d-8cdf-4a3c-9e60-3ab67286edbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9b0afed6-5041-4b57-8806-9a7d9b8cc6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inbox</value>
+      <webElementGuid>74abdc5e-3e9e-4e31-894a-229a3d5a0efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>route transition w-12 h-12 bg-white flex items-center justify-center rounded-lg border</value>
+      <webElementGuid>9430947a-dbcf-4c91-b3e4-c3bd35ec565d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>ec28b5c4-3f3e-40e3-8db4-f6e01730f0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gista_theme&quot;)/div[@class=&quot;font-poppins&quot;]/div[@class=&quot;hidden fixed md:flex flex-wrap content-between left-0 gap-4 overflow-auto top-0 w-28 px-6 py-12 h-full items-center p-4 text-gray&quot;]/div[@class=&quot;flex flex-wrap gap-16 justify-center&quot;]/div[@class=&quot;flex flex-col gap-8 items-center justify-center&quot;]/a[@class=&quot;route transition w-12 h-12 bg-white flex items-center justify-center rounded-lg border&quot;]</value>
+      <webElementGuid>abe6bb5a-a6f9-4cf1-8019-86c4248e9180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gista_theme']/div/div/div/div/a[2]</value>
+      <webElementGuid>70082dbc-1cbd-4e58-9a54-a3aa1d817d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::a[2]</value>
+      <webElementGuid>403a4284-fed2-42e7-a27f-01695b0a8f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::a[4]</value>
+      <webElementGuid>3febe0f3-0854-4bb6-a125-612a60fd6e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat datang di aplikasi'])[1]/preceding::a[2]</value>
+      <webElementGuid>be2b8c0e-6a41-4b4e-8882-e62ad9c766c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inbox')]</value>
+      <webElementGuid>cadbe46f-d473-4764-b5c2-323c72bb3ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a[2]</value>
+      <webElementGuid>06893cd4-38de-468c-8e31-3e791f4c2ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/inbox' and (text() = '35' or . = '35')]</value>
+      <webElementGuid>f598a722-bc0d-4972-a99c-4b83eb796ef9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

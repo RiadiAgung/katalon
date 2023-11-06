@@ -33,3 +33,5 @@ WebUI.verifyElementPresent(findTestObject('Dashboard/Selamat siang'), 0)
 
 WebUI.verifyTextPresent('707', true)
 
+WebUI.takeFullPageScreenshot()
+
